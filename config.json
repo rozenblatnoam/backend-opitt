@@ -1,0 +1,9 @@
+{
+    "db": {
+        "url": "mongodb+srv://admin:opitAdmin@opit-stage.kpbxc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "encryption": {
+        "secret": "some fake secret"
+    },
+    "adminPassword": "1234"
+}
