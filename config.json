@@ -1,6 +1,6 @@
 {
     "db": {
-        "url": "mongodb+srv://admin:opitAdmin@opit-stage.kpbxc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        "url": "mongodb+srv://0pittd:0pittd@cluster0.1feat.mongodb.net/test"
     },
     "encryption": {
         "secret": "some fake secret"
